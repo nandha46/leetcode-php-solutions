@@ -1,2 +1,2 @@
 # leetcode-php-solutions
-Codes I submitted to leetcode problems
+    Solutions I've submitted to the leetcode problems
